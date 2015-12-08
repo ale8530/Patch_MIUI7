@@ -3,7 +3,6 @@
   xmlns:launcher="http://schemas.android.com/apk/res/com.miui.home">
     <default launcher:screen="2" />
     <folder launcher:screen="1" launcher:x="1" launcher:y="2" launcher:title="com.miui.home:string/default_folder_title_tools" />
-    <folder launcher:screen="1" launcher:x="2" launcher:y="2" launcher:title="com.miui.home:string/default_folder_title_recommend" launcher:presets_container="true" />
     <clock2x4 launcher:screen="0" launcher:x="0" launcher:y="0" />
     <favorite launcher:className="com.android.camera.Camera" launcher:packageName="com.android.camera" launcher:screen="1" launcher:x="0" launcher:y="0" />
     <favorite launcher:className="com.android.contacts.activities.PeopleActivity" launcher:packageName="com.android.contacts" launcher:screen="1" launcher:x="1" launcher:y="0" />
@@ -33,7 +32,6 @@
     <favorite launcher:className="com.miui.barcodescanner.activity.CaptureActivity" launcher:packageName="com.miui.barcodescanner" launcher:container="1" launcher:x="14" launcher:y="0" />
     <favorite launcher:className="com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2" launcher:packageName="com.duokan.phone.remotecontroller" launcher:container="1" launcher:x="15" launcher:y="0" />
     <favorite launcher:className="com.duokan.hdreader.DkReaderActivity" launcher:packageName="com.duokan.hdreader" launcher:container="2" launcher:x="0" launcher:y="0" />
-    <shortcut launcher:className="com.android.fileexplorer.FileExplorerTabActivity" launcher:packageName="com.android.fileexplorer" launcher:container="2" launcher:x="1" launcher:y="0" launcher:title="com.android.fileexplorer:string/kuaipan_label" launcher:action="miui.intent.action.START_KUAIPAN" launcher:iconResource="com.android.fileexplorer:drawable/kuaipan_icon" />
     <favorite launcher:className="com.yahoo.mobile.client.android.weather.ui.WeatherMainActivity" launcher:packageName="com.yahoo.mobile.client.android.weather" launcher:container="2" launcher:x="2" launcher:y="0" />
     <favorite launcher:className="cn.kuwo.kwmusichd.WelcomeActivity" launcher:packageName="cn.kuwo.kwmusichd" launcher:container="2" launcher:x="3" launcher:y="0" />
     <favorite launcher:className="com.xiami.tv.activities.StartActivity" launcher:packageName="com.xiami.pad" launcher:container="2" launcher:x="4" launcher:y="0" />
