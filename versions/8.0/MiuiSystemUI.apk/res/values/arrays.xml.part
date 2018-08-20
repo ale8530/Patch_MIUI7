@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="device_global_support_face_facejiajia">
+        <item>whyred</item>
+        <item>polaris</item>
+        <item>ysl</item>
+		<item>gemini</item>
+    </string-array>
+	<string-array name="region_global_support_face_facejiajia">
+        <item>IN</item>
+        <item>ID</item>
+        <item>RU</item>
+        <item>HK</item>
+        <item>TW</item>
+        <item>TR</item>
+        <item>TH</item>
+        <item>SG</item>
+        <item>MY</item>
+        <item>VN</item>
+		<item>IT</item>
+        <item>CH</item>
+    </string-array>
+</resources>
