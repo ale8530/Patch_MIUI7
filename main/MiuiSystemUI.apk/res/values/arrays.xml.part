@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="device_global_support_face_facejiajia">
-        <item>whyred</item>
-        <item>polaris</item>
-        <item>ysl</item>
+        <item>aqua</item>
+		<item>libra</item>
 		<item>gemini</item>
+		<item>capricorn</item>
+		<item>natrium</item>
+		<item>tiffany</item>
+		<item>song</item>
+		<item>sagit</item>
+		<item>wayne</item>
+		<item>dipper</item>
+		<item>sirius</item>
+		<item>ursa</item>
+		<item>scorpio</item>
+		<item>jason</item>
+		<item>lithium</item>
+		<item>chiron</item>
+		<item>polaris</item>
+		<item>hydrogen</item>
+		<item>helium</item>
+		<item>oxygen</item>
+		<item>nitrogen</item>
+		<item>santoni</item>
+		<item>rosy</item>
+		<item>riva</item>
+		<item>vince</item>
+		<item>cactus</item>
+		<item>cereus</item>
+		<item>sakura</item>
+		<item>ysl</item>
+		<item>mido</item>
+		<item>ugg</item>
+		<item>ugglite</item>
+        <item>whyred</item>
     </string-array>
 	<string-array name="region_global_support_face_facejiajia">
         <item>IN</item>
