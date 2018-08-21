@@ -35,6 +35,76 @@
 		<item>ugglite</item>
         <item>whyred</item>
     </string-array>
+	    <string-array name="device_support_face">
+        <item>jason</item>
+        <item>polaris</item>
+        <item>sagit</item>
+        <item>chiron</item>
+        <item>whyred</item>
+        <item>nitrogen</item>
+        <item>wayne</item>
+        <item>ysl</item>
+        <item>sakura</item>
+        <item>clover</item>
+        <item>dipper</item>
+        <item>sirius</item>
+        <item>ursa</item>
+        <item>cactus</item>
+        <item>cereus</item>
+        <item>gemini</item>
+        <item>platina</item>
+        <item>capricorn</item>
+        <item>equuleus</item>
+        <item>lithium</item>
+        <item>scorpio</item>
+        <item>natrium</item>
+        <item>aqua</item>
+        <item>libra</item>
+        <item>helium</item>
+        <item>hydrogen</item>
+        <item>tiffany</item>
+        <item>oxygen</item>
+        <item>mido</item>
+        <item>vince</item>
+        <item>rosy</item>
+        <item>ugg</item>
+        <item>santoni</item>
+        <item>ugglite</item>
+        <item>riva</item>
+    </string-array>
+	<string-array name="device_use_cameraone">
+        <item>jason</item>
+        <item>sagit</item>
+        <item>chiron</item>
+        <item>whyred</item>
+        <item>nitrogen</item>
+        <item>wayne</item>
+        <item>ysl</item>
+        <item>sakura</item>
+        <item>clover</item>
+        <item>cactus</item>
+        <item>cereus</item>
+        <item>gemini</item>
+        <item>platina</item>
+        <item>capricorn</item>
+        <item>vince</item>
+        <item>tulip</item>
+        <item>lithium</item>
+        <item>scorpio</item>
+        <item>natrium</item>
+        <item>aqua</item>
+        <item>libra</item>
+        <item>helium</item>
+        <item>hydrogen</item>
+        <item>tiffany</item>
+        <item>oxygen</item>
+        <item>mido</item>
+        <item>rosy</item>
+        <item>ugg</item>
+        <item>santoni</item>
+        <item>ugglite</item>
+        <item>riva</item>
+    </string-array>
 	<string-array name="region_global_support_face_facejiajia">
         <item>IN</item>
         <item>ID</item>
