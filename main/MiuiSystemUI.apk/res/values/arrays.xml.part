@@ -71,6 +71,7 @@
         <item>santoni</item>
         <item>ugglite</item>
         <item>riva</item>
+		<item>song</item>
     </string-array>
 	<string-array name="device_use_cameraone">
         <item>jason</item>
